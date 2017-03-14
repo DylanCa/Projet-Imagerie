@@ -59,6 +59,7 @@ function initializeImg()
     imgB1 = readpbm('mB1.pbm');
     imgB2 = readpbm('mB2.pbm');
     imgB3 = readpbm('mB3.pbm');
+    load('mX1.dat');
     imgX2 = readpbm('mX2.pbm');
     imgU1 = readpbm('mU1.pbm');
     imgU2 = readpbm('mU2.pbm');
